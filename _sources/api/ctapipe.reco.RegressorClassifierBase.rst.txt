@@ -1,0 +1,25 @@
+RegressorClassifierBase
+=======================
+
+.. currentmodule:: ctapipe.reco
+
+.. autoclass:: RegressorClassifierBase
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~RegressorClassifierBase.fit
+      ~RegressorClassifierBase.load
+      ~RegressorClassifierBase.reshuffle_event_list
+      ~RegressorClassifierBase.save
+      ~RegressorClassifierBase.show_importances
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: fit
+   .. automethod:: load
+   .. automethod:: reshuffle_event_list
+   .. automethod:: save
+   .. automethod:: show_importances
